@@ -27,7 +27,7 @@ Analyze and classify customer support tickets using machine learning.
 - Scikit-learn
 
 ### Files
-- model2.py
+-  Support Ticket Analysis
 - support_tickets.csv
 
 ## Author
