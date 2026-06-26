@@ -25,6 +25,19 @@ Analyze and classify customer support tickets using machine learning.
 - Python
 - Pandas
 - Scikit-learn
+## Project 3: Resume / Candidate Screening System
+
+### Description
+A machine learning system that analyzes resumes and helps screen candidates based on job requirements.
+
+### Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+
+### Files
+- resume_candidate_screening.py
+- (your dataset name)
 
 ### Files
 -  Support Ticket Analysis
