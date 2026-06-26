@@ -28,7 +28,7 @@ Analyze and classify customer support tickets using machine learning.
 ## Project 3: Resume / Candidate Screening System
 
 ### Description
-A machine learning system that analyzes resumes and helps screen candidates based on job requirements.
+This project is a Resume / Candidate Screening System that analyzes candidate resumes and compares them with job descriptions. It helps identify suitable candidates based on skills and job requirements using Python and machine learning techniques.
 
 ### Technologies Used
 - Python
@@ -37,11 +37,8 @@ A machine learning system that analyzes resumes and helps screen candidates base
 
 ### Files
 - resume_candidate_screening.py
-- (your dataset name)
-
-### Files
--  Support Ticket Analysis
-- support_tickets.csv
+- resumes.csv
+- job_descriptions.csv
 
 ## Author
 **Bobbadi Sowmya**
